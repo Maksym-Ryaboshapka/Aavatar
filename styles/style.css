@@ -1,0 +1,123 @@
+* {
+    font-family: 'Inter';
+}
+
+.container {
+    width: 1062px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* я задав чорний фон, щоб було видно білий текст */
+
+.hero {
+    background-color: black;
+}
+
+.hero-photo {
+    width: 717px;
+    height: 600px;
+}
+
+.hero-description {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #FFFFFF;
+}
+
+.hero-img {
+    width: 152px;
+    height: 40px;
+}
+
+.hero-btn {
+    font-family: 'Headland One';
+    font-size: 24px;
+    line-height: 1.25;
+    color: #26C7EA;
+}
+
+.skypeople-title {
+    font-size: 36px;
+    line-height: 1.22;
+    color: #0A3853;
+    text-align: center;
+}
+
+.skypeople-description {
+    font-size: 24px;
+    line-height: 1.2;
+    color: #000000;
+    text-align: center;
+}
+
+.skypeople-img {
+    width: 400px;
+    height: 120px;
+}
+
+.trailer-btn {
+    font-size: 24px;
+    line-height: 1.25;
+    color: #26C7EA;
+}
+
+.energy-title {
+    font-size: 36px;
+    line-height: 1.22;
+    color: #0A3853;
+    text-align: center;
+}
+
+.energy-description {
+    font-size: 24px;
+    line-height: 1.2;
+    color: #000000;
+    text-align: center;
+}
+
+.energy-img {
+    width: 400px;
+    height: 120px;
+}
+
+.cards-title {
+    font-family: 'Headland One';
+    font-size: 32px;
+    line-height: 1.25;
+    color: #1F2426;
+}
+
+.cards-paragraph {
+    font-family: 'Headland One';
+    font-size: 24px;
+    line-height: 1;
+    color: #000000;
+}
+
+.cards-img {
+    width: 152px;
+    height: 40px;
+}
+
+.mother-title {
+    font-size: 36px;
+    line-height: 1.22;
+    color: #0A3853;
+    text-align: center;
+}
+
+.mother-description {
+    font-size: 24px;
+    line-height: 1.2;
+    color: #000000;
+    text-align: center;
+}
+
+.mother-img {
+    width: 400px;
+    height: 120px;
+}
