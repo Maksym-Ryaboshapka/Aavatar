@@ -95,7 +95,7 @@
     color: #0A3853;
     text-align: center;
     max-width: 851px;
-    margin-bottom: 18px;
+    margin-bottom: 16px;
 }
 
 .skypeople-description {
@@ -152,6 +152,7 @@
     color: #0A3853;
     text-align: center;
     max-width: 857px;
+    margin-bottom: 16px;
 }
 
 .energy-description {
@@ -159,6 +160,7 @@
     line-height: 1.2;
     color: #000000;
     text-align: center;
+    margin-bottom: 8px;
 }
 
 .energy-img {
@@ -226,6 +228,7 @@
     line-height: 1.22;
     color: #0A3853;
     text-align: center;
+    margin-bottom: 16px;
 }
 
 .mother-description {
@@ -233,6 +236,7 @@
     line-height: 1.2;
     color: #000000;
     text-align: center;
+    margin-bottom: 8px;
 }
 
 .mother-img {
