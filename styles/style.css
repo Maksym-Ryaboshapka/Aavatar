@@ -11,7 +11,7 @@
 }
 
 .hero {
-    background-image: url(../images/rectangle1.jpg);
+    background-image: url(../images/hero-background.jpg);
     max-height: 700px;
 }
 
@@ -114,7 +114,7 @@
 .trailer {
     padding-top: 310px;
     padding-bottom: 310px;
-    background-image: url(../images/Rectangle10.jpg);
+    background-image: url(../images/trailer-background.jpg);
     max-height: 700px;
 }
 
@@ -169,7 +169,7 @@
 }
 
 .cards {
-    background-image: url(../images/Rectangle20.jpg);
+    background-image: url(../images/cards-background.jpg);
     padding-top: 32px;
     padding-bottom: 43px;
 }
@@ -246,5 +246,5 @@
 
 .footer {
     height: 268px;
-    background-image: url(../images/Rectangle12.jpg);
+    background-image: url(../images/footer-background.jpg);
 }
